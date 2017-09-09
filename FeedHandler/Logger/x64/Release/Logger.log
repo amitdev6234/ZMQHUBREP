@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Logger.cpp
+  Generating code
+  All 283 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Logger.vcxproj -> C:\App\db\src\FeedHandler\x64\Release\Logger.exe
+  Logger.vcxproj -> C:\App\db\src\FeedHandler\x64\Release\Logger.pdb (Full PDB)

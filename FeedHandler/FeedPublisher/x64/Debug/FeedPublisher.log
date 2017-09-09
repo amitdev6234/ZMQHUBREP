@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  FeedPublisher.cpp
+LINK : fatal error LNK1104: cannot open file 'libzmq.obj'

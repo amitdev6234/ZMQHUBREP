@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  Logger.cpp
+c:\app\db\src\feedhandler\logger\logger.cpp(6): fatal error C1083: Cannot open include file: 'zmq.hpp': No such file or directory
